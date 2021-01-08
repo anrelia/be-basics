@@ -1,0 +1,43 @@
+body {
+    padding: 50px;
+}
+
+.box {
+    border: 1px #dedede;
+    margin: 2px;
+}
+
+/* Typography */
+
+body {
+    font-family: "IBM Plex Sans";
+}
+
+h1 {
+    font-family: "IBM Plex Sans";
+    font-weight: 600;
+
+}
+
+h2 {
+    font-family: "IBM Plex Sans";
+    font-weight: 200;
+
+}
+
+p {
+    font-family: "IBM Plex Sans";
+    font-weight: 200;
+}
+
+button {
+    font-family: "IBM Plex Sans";
+}
+
+/* Buttons  */
+
+.btn-sm {
+    float: right;
+
+}
+
